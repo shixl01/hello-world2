@@ -1,3 +1,4 @@
 # hello-world2
 a new project  
-i like :pizza
+
+this is my firt git project.
